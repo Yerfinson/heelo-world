@@ -16,5 +16,5 @@ hola yo soy el primer pooool
 
  # Enlace de imagen
 
- [PRUEBAROBTEC](https://minciencias.gov.co/sites/default/files/robotec.png "PRUEBA") 
+ ![PRUEBAROBTEC](https://minciencias.gov.co/sites/default/files/robotec.png "PRUEBA") 
 
